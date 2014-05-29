@@ -1,9 +1,15 @@
 {
-"Chase":{
-	"fid":"10898",
-	"fiorg":"B1",
-	"url":"https://ofx.chase.com",
-	"routing":"021000021"
+	"Chase":{
+		"fid":"10898",
+		"fiorg":"B1",
+		"url":"https://ofx.chase.com",
+		"routing":"021000021"
+	},
+	"America First Credit Union":{
+		"fid":"",
+		"fiorg":"",
+		"url":"https://ofx.americafirst.com",
+		"routing":"324377516"
 	}
 }
 
